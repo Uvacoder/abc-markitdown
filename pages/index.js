@@ -72,7 +72,7 @@ export default function Home() {
   return (
     <>
       <Padding all={2}>
-        <h1>Mark</h1>
+        <h1>Markitdown</h1>
         <Spacer y={1} />
         <p>Web Markdown Editor</p>
         <Spacer y={2} />
